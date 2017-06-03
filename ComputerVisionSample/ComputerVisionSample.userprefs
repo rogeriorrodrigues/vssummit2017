@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4910A0F9-ABF7-493A-ABE5-1923A27ACBB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComputerVisionSample/ComputerVisionSample.iOS/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="ComputerVisionSample/ComputerVisionSample/OcrRecognitionPage.xaml.cs" Line="23" Column="72" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample/App.xaml.cs" Line="19" Column="56" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample/CelebrityRecognitionPage.xaml.cs" Line="18" Column="50" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample/CelebrityRecognitionPage.xaml" Line="15" Column="15" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample/packages.config" Line="1" Column="1" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample/MainPage.xaml.cs" Line="25" Column="56" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample.Droid/Properties/AssemblyInfo.cs" Line="12" Column="46" />
+      <File FileName="ComputerVisionSample/ComputerVisionSample.iOS/Properties/AssemblyInfo.cs" Line="11" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rogerio/Downloads/ComputerVisionSample/ComputerVisionSample/ComputerVisionSample/MainPage.xaml.cs" relfile="ComputerVisionSample/ComputerVisionSample/MainPage.xaml.cs" line="102" column="1" />
+      <Breakpoint file="/Users/rogerio/Downloads/ComputerVisionSample/ComputerVisionSample/ComputerVisionSample/MainPage.xaml.cs" relfile="ComputerVisionSample/ComputerVisionSample/MainPage.xaml.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ComputerVisionSample.Droid PreferredExecutionTarget="Android.192.168.56.102:5555" />
+  <MonoDevelop.Ide.ItemProperties.ComputerVisionSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DE2B8973-EA0D-4E0F-B728-5EC738D51D5F" />
+  <MultiItemStartupConfigurations />
+</Properties>

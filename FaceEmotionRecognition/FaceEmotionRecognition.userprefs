@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{16CF0F78-E2B0-4718-A050-C968DC0D5C85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FaceEmotionRecognition/FaceEmotionRecognition/MainPage.xaml.cs">
+    <Files>
+      <File FileName="FaceEmotionRecognition/FaceEmotionRecognition/MainPage.xaml.cs" Line="28" Column="75" />
+      <File FileName="FaceEmotionRecognition/FaceEmotionRecognition.Droid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="FaceEmotionRecognition/FaceEmotionRecognition.Droid/Properties/AssemblyInfo.cs" Line="12" Column="46" />
+      <File FileName="FaceEmotionRecognition/FaceEmotionRecognition.iOS/Properties/AssemblyInfo.cs" Line="11" Column="46" />
+      <File FileName="FaceEmotionRecognition/FaceEmotionRecognition/FaceEmotionDetection.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FaceEmotionRecognition.Droid PreferredExecutionTarget="Android.0021876848" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FaceEmotionRecognition.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DE2B8973-EA0D-4E0F-B728-5EC738D51D5F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
